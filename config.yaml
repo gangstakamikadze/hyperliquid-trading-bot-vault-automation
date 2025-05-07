@@ -1,0 +1,36 @@
+wallet1:
+  private_key: wallet_private_key
+  token_address: mint_token_address
+  solana_rpc: your_rpc_node
+  dex: raydium (can choose)
+  symbol: input_toke_symbol
+  timeframe: 7h
+  rsi_period: 11
+  rsi_overbought: 50
+  rsi_oversold: 2
+  position_size: 0.16
+  stop_loss_pct: 0.05
+  take_profit_pct: 0.5
+  spread_pct: 0.01
+  atr_period: 14
+  telegram_chat_id: your_chat_id
+  telegram_token: telgeram_token_bot
+
+
+wallet2:
+  private_key: wallet_private_key
+  token_address: mint_token_address
+  solana_rpc: your_rpc_node
+  dex: raydium (can choose)
+  symbol: input_toke_symbol
+  timeframe: 1h
+  rsi_period: 14
+  rsi_overbought: 70
+  rsi_oversold: 30
+  position_size: 0.1
+  stop_loss_pct: 0.05
+  take_profit_pct: 0.1
+  spread_pct: 0.01
+  atr_period: 14
+  telegram_chat_id: your_chat_id
+  telegram_token: telgeram_token_bot
