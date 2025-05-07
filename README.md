@@ -361,7 +361,7 @@ solana balance <wallet_address>
 Create a Telegram bot:
 - Find @BotFather in Telegram, send /start, then /newbot 🤖.
 - Set name (e.g., MySniperBot) and username (e.g., @MySniperBot).
-- Copy the token (e.g., 7260116547:AAG8CYeIaK8MDg9zyG7wl2BEBMzklksd7zo).
+- Copy the token API.
 
 Get your chat ID:
 - Send /start to @userinfobot for personal chat ID 📱.
