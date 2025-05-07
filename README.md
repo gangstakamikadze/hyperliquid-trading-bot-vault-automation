@@ -1,5 +1,7 @@
 # Solana Auto Sniping Bot 🌟
-Solana Sniper is ultimate tool for conquering the Solana blockchain! 🚀 This powerful, open-source bot is designed to automate trading, portfolio management, and market-making with lightning speed and precision. Whether you're a DeFi enthusiast or a seasoned trader, Solana Sniper gives you the edge to snipe new token pools, optimize profits, and stay ahead of the game. 💸
+The bot is optimized and ready for trading in mainnet. Just configure config and RPC, in config.yaml you can specify unlimited number of wallets based on the templates
+
+Solana Sniper is tool for conquering the Solana blockchain! 🚀 This , open-source bot is designed to automate trading, portfolio management, and market-making with lightning speed and precision. Whether you're a DeFi enthusiast or a seasoned trader, Solana Sniper gives you the edge to snipe new token pools, optimize profits, and stay ahead of the game. 💸
 ## Why Solana Auto Sniping is Unique? 🎯
 - Blazing Fast on Solana ⚡: Built for Solana’s high-speed blockchain, it snipes new liquidity pools and executes trades in milliseconds.
 
