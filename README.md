@@ -1,7 +1,7 @@
 
 # Solana Bundle Sniper Bot 🚀
 
-Welcome to the **Solana Bundle Sniper Bot**! 🎉 This is the ultimate tool for Solana token creators and traders who want to snipe liquidity pools, automate swaps, and manage their token like a pro-all while staying under the radar. Built for tokens with $100k+ liquidity (like yours! 😎), this bot gives you full control with features like bundle transactions, limit orders, and stealthy wallet management. Let's make waves in the Solana ecosystem! 🌊
+Welcome to the **Solana Bundle Sniper Bot**! 🎉 This is the ultimate tool for Solana token creators and traders who want to snipe liquidity pools, automate swaps, and manage their token like a pro-all while staying under the radar. Built for tokens with $100k+ liquidity, this bot gives you full control with features like bundle transactions, limit orders, and stealthy wallet management. Let's make waves in the Solana ecosystem! 🌊
 
 ---
 
