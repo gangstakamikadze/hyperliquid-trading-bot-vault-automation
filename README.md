@@ -3,7 +3,7 @@
 
 The Hyperliquid Trading Bot is a cutting-edge crypto trading software designed for the Hyperliquid decentralized exchange. It offers automated trading, arbitrage, real-time analytics, and onchain insights. This bot empowers traders with advanced strategies, multi-account support, and robust risk management, making it a top choice for DeFi trading enthusiasts.
 
-<p align="center"><img width="900" height="500" src="solanasnipegui.png" alt="Bot interface" /></p>
+<p align="center"><img width="900" height="500" src="gui.png" alt="Bot interface" /></p>
 
 ---
 
