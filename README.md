@@ -1,4 +1,3 @@
-
 # Hyperliquid Trading Bot 🚀
 
 The Hyperliquid Trading Bot is a cutting-edge crypto trading software designed for the Hyperliquid decentralized exchange. It offers automated trading, arbitrage, real-time analytics, and onchain insights. This bot empowers traders with advanced strategies, multi-account support, and robust risk management, making it a top choice for DeFi trading enthusiasts.
@@ -7,43 +6,49 @@ The Hyperliquid Trading Bot is a cutting-edge crypto trading software designed f
 
 ---
 
-## Project Overview
+# Project Overview
 The Hyperliquid Trading Bot is engineered for traders seeking automated crypto trading solutions. Its intuitive interface, delivers a seamless experience for managing portfolios, executing strategies, and analyzing market data. The bot integrates with Hyperliquid's API and supports connections to MetaMask/Arbitrum wallets, ensuring secure and efficient trading.
 
-## Key Features
+# Key Features
 
-**Automated Trading Strategies** 🛠️
-- HLP Vault, User Vault (Mean-Reversion, Grid Trading), Momentum, Trend, and Scalping.
-- Configurable parameters for personalized trading.
+## Automated Trading Strategies 🛠️
+HLP Vault, User Vault (Mean-Reversion, Grid Trading), Momentum, Trend, and Scalping.
 
-**Multi-Account Support** 🔑
-- Manage multiple Hyperliquid accounts with encrypted key storage.
-- Seamlessly switch between accounts.
+Configurable parameters for personalized trading.
 
-**Portfolio Dashboard** 🏦
-- Tracks total value, asset allocation, and open positions.
+## Multi-Account Support 🔑
+Manage multiple Hyperliquid accounts with encrypted key storage.
 
-**Arbitrage Tool** 📈
-- Real-time price comparison between Hyperliquid (BTC-USDC) and Binance (BTC-USDT).
-- Identify profitable opportunities instantly.
+Seamlessly switch between accounts.
 
-**Automatic API Key Creationt** 🔐
-- Connect MetaMask/Arbitrum wallets for secure API key generation.
+## Portfolio Dashboard 🏦
+Tracks total value, asset allocation, and open positions.
 
-**Real-Time Charts** 📊
-- Embedded PnL charts update every 5 seconds.
-- Visualize portfolio performance with clean, interactive graphs.
+## Arbitrage Tool 📈
+Real-time price comparison between Hyperliquid (BTC-USDC) and Binance (BTC-USDT).
 
-**Onchain Analysis** 👀
-- Displays top-5 bid/ask order book data for BTC-USDC, ETH-USDC, SOL-USDC and other.
-- Gain insights into market liquidity and depth.
+Identify profitable opportunities instantly.
 
-**Backtestinge** 🕵️♂️
-- Simulate strategies with historical data to optimize performance.
+## Automatic API Key Creationt 🔐
+Connect MetaMask/Arbitrum wallets for secure API key generation.
 
-**Risk Management** 🔒
-- Position sizing, stop-loss/take-profit, leverage
-- Real-time alerts for critical events (e.g., stop-loss triggers)
+## Real-Time Charts 📊
+Embedded PnL charts update every 5 seconds.
+
+Visualize portfolio performance with clean, interactive graphs.
+
+## Onchain Analysis 👀
+Displays top-5 bid/ask order book data for BTC-USDC, ETH-USDC, SOL-USDC and other.
+
+Gain insights into market liquidity and depth.
+
+## Backtestinge 🕵️♂️
+Simulate strategies with historical data to optimize performance.
+
+## Risk Management 🔒
+Position sizing, stop-loss/take-profit, leverage
+
+Real-time alerts for critical events (e.g., stop-loss triggers)
 
 ---
 
